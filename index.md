@@ -95,7 +95,7 @@ performance by our designed weighted average filters.
 
 ### JOURNALS
 
-[1] **J. Zhang**, K. Honda, J. Wei* and T. Kitamura, ”Morphological characteristics of male and female hypopharynx: An MRI-based study,” _Journal of the Acoustical Society of America_, vol. 145, no. 2, pp. 734-748, 2018. **(Top journal in the field of speech production, CCF-B)**
+[1] **J. Zhang**, K. Honda, J. Wei* and T. Kitamura, ”Morphological characteristics of male and female hypopharynx: An MRI-based study,” _Journal of the Acoustical Society of America_, vol. 145, no. 2, pp. 734-748, 2019. **(Top journal in the field of speech production, CCF-B)**
 
 [2] **J. Zhang**, K. Honda, and J. Wei*, ”Tooth visualization in vowel production MR images for three-dimensional vocal tract modeling,” _Speech Communication_, vol. 96, pp. 37-48, 2018. **(Top journal in the field of speech production, CCF-B)**
 
