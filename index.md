@@ -97,14 +97,13 @@ performance by our designed weighted average filters.
 
 [1] **J. Zhang**, K. Honda, J. Wei* and T. Kitamura, ”Morphological characteristics of male and female hypopharynx: An MRI-based study,” _Journal of the Acoustical Society of America_, vol. 145, no. 2, pp. 734-748, 2019. **(Top journal in the field of speech production, CCF-B)**
 
-[2] **J. Zhang**, K. Honda, and J. Wei*, ”Tooth visualization in vowel production MR images for three-dimensional vocal tract modeling,” _Speech Communication_, vol. 96, pp. 37-48, 2018. **(Top journal in the field of speech production, CCF-B)**
+[2] Y. Chen*, **J. Zhang**, J. Sieg, and Y. Chen, ”Is [γ] in Mandarin a transitional vowel? –Evidence from tongue movement by Ultrasound imaging,” _Journal of Chinese Linguistics (JCL)_, vol. 47, no. 2, pp. 371-405, 2017. **(SSCI)**
 
-[3] **K. Honda and J. Zhang**, ”Articulatory modeling of human and non-human vocal production,” _Journal of the Acoustical Society of America_, vol. 143, no. 3, pp. 1787-1787, 2018. **(Invited talk in 175th Meeting of the Acoustical Society of America in Minneapolis)**
+[3] **J. Zhang**, K. Honda, and J. Wei*, ”Tooth visualization in vowel production MR images for three-dimensional vocal tract modeling,” _Speech Communication_, vol. 96, pp. 37-48, 2018. **(Top journal in the field of speech production, CCF-B)**
 
-[4] J. Wang, Y. Gao, **J. Zhang**, J. Wei, and J. Dang, ”Automatic speech recognition by a Kinect sensor for a robot under ego noises,” _Journal of Tsinghua University (Science and Technology)_, vol. 57, no. 9, pp. 921-925, 2017. **(EI)**
+[4] **K. Honda and J. Zhang**, ”Articulatory modeling of human and non-human vocal production,” _Journal of the Acoustical Society of America_, vol. 143, no. 3, pp. 1787-1787, 2018. **(Invited talk in 175th Meeting of the Acoustical Society of America in Minneapolis)**
 
-)
-[5] Y. Chen*, **J. Zhang**, J. Sieg, and Y. Chen, ”Is [γ] in Mandarin a transitional vowel? –Evidence from tongue movement by Ultrasound imaging,” _Journal of Chinese Linguistics (JCL)_, 2017. (Accepted) **(SSCI)**
+[5] J. Wang, Y. Gao, **J. Zhang**, J. Wei, and J. Dang, ”Automatic speech recognition by a Kinect sensor for a robot under ego noises,” _Journal of Tsinghua University (Science and Technology)_, vol. 57, no. 9, pp. 921-925, 2017. **(EI)**
 
 [6] W. Lu, **J. Zhang**, X. Zhao, J. Wang*, and J. Dang, ”Multimodal sensory fusion for soccer robot self-localization based on long short-term memory recurrent neural network,” _Journal of Ambient Intelligence and Humanized Computing (AIHC)_, vol. 8, no. 6, pp. 885-893, 2017. **(SCI-4)**
 
