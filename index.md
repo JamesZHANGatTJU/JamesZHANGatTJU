@@ -117,33 +117,35 @@ performance by our designed weighted average filters.
 
 ### CONFERENCES
 
-[1] J. Wei, F. Yang, **J. Zhang**, R. Yu, M. Yu and J. Wang, ”Three-dimensional joint geometric-physiologic feature for lip-reading,” in _Proceedings of the International Conference on Tools with Artificial Intelligence (ICTAI)_, 2018, pp. 1007-1012. **(EI, CCF-C)**
+[1] **J. Zhang**, S. Guo, C. Gong, S. Chen, Y. Wang, L. Wang, W. Zou and X. Li, ”The TJU-Didi-Huiyan system for Blizzard Challenge 2019,” in _The Blizzard Challenge 2019 Workshop_, 2019.
 
-[2] J. Wang, L. Wang, **J. Zhang**, J. Wei, M. Yu, and R. Yu, ”A large-scale depth-based multimodal audio-visual corpus in Mandarin,” in _Proceedings of the International Conference on High Performance Computing and Communications (HPCC)_, 2018, pp. 881-885. **(EI, CCF-C)**
+[2] J. Wei, F. Yang, **J. Zhang**, R. Yu, M. Yu and J. Wang, ”Three-dimensional joint geometric-physiologic feature for lip-reading,” in _Proceedings of the International Conference on Tools with Artificial Intelligence (ICTAI)_, 2018, pp. 1007-1012. **(EI, CCF-C)**
 
-[3] Z. Zhang, J. Wei, **J. Zhang*** and K. Honda, ”Acoustic analysis of the open-end effect using solid vocal tract models constructed from MRI data during vowel production,” in _Proceedings of the International Conference on Information Science and Control Engineering (ICISCE)_, 2018, pp. 1062-1066. **(EI)**
+[3] J. Wang, L. Wang, **J. Zhang**, J. Wei, M. Yu, and R. Yu, ”A large-scale depth-based multimodal audio-visual corpus in Mandarin,” in _Proceedings of the International Conference on High Performance Computing and Communications (HPCC)_, 2018, pp. 881-885. **(EI, CCF-C)**
 
-[4] X. Feng, W. Lu, **J. Zhang**, Y. Chi, and K. Honda*, ”Relative tongue size as an index to predict individual articulatory difference,” in _Proceedings of the Biennial Asia Pacific Conference on Speech, Language and Hearing (APCSLH)_, 2017, pp. 1-1.
+[4] Z. Zhang, J. Wei, **J. Zhang*** and K. Honda, ”Acoustic analysis of the open-end effect using solid vocal tract models constructed from MRI data during vowel production,” in _Proceedings of the International Conference on Information Science and Control Engineering (ICISCE)_, 2018, pp. 1062-1066. **(EI)**
 
-[5] **Y. Chen+, J. Zhang+**, and J. Dang, ”How the speeds of articulator movement change in producing diphthongs? —–Evidence from acceleration calculation,” in _Proceedings of the International Seminar on Speech Production (ISSP)_, 2017, pp. 1-4. **(EI)**
+[5] X. Feng, W. Lu, **J. Zhang**, Y. Chi, and K. Honda*, ”Relative tongue size as an index to predict individual articulatory difference,” in _Proceedings of the Biennial Asia Pacific Conference on Speech, Language and Hearing (APCSLH)_, 2017, pp. 1-1.
 
-[6] Y. Chen*, **J. Zhang**, F. Chen, Y. Chen, H. Lin, J. Wei, and J. Dang, ”A new method of acceleration measurement for observing tongue movement in Ultrasound image during speech production,” in _Proceedings of the Asia-Pacific Signal and Information Processing Association Summit and Conference (APSIPA)_, 2016, pp. 1-4. **(EI, ISTP)**
+[6] **Y. Chen+, J. Zhang+**, and J. Dang, ”How the speeds of articulator movement change in producing diphthongs? —–Evidence from acceleration calculation,” in _Proceedings of the International Seminar on Speech Production (ISSP)_, 2017, pp. 1-4. **(EI)**
 
-[7] Y. Chen*, Y. Chen, J. Zhang, **J. Zhang**, H. Lin, J. Wei, and J. Dang, ”Mandarin citation tone patterns of prelingual Chinese deaf adults,” in _Proceedings of the Asia-Pacific Signal and Information Processing Association Summit and Conference (APSIPA)_, 2016, pp. 1-4. **(EI, ISTP)**
+[7] Y. Chen*, **J. Zhang**, F. Chen, Y. Chen, H. Lin, J. Wei, and J. Dang, ”A new method of acceleration measurement for observing tongue movement in Ultrasound image during speech production,” in _Proceedings of the Asia-Pacific Signal and Information Processing Association Summit and Conference (APSIPA)_, 2016, pp. 1-4. **(EI, ISTP)**
 
-[8] **J. Zhang**, K. Honda, J. Wei*, J. Wang and J. Dang, ”Spatial co-variation of lip and tongue at strong and weak syllables,” in _Proceedings of the International Symposium on Chinese Spoken Language Processing (ISCSLP)_, 2016, pp. 1-5. **(EI)**
+[8] Y. Chen*, Y. Chen, J. Zhang, **J. Zhang**, H. Lin, J. Wei, and J. Dang, ”Mandarin citation tone patterns of prelingual Chinese deaf adults,” in _Proceedings of the Asia-Pacific Signal and Information Processing Association Summit and Conference (APSIPA)_, 2016, pp. 1-4. **(EI, ISTP)**
 
-[9] C. Zhang, K. Honda, **J. Zhang**, and J. Wei*, ”Contributions of the piriform fossa of female speakers to vowel spectra,” in _Proceedings of the International Symposium on Chinese Spoken Language Processing (ISCSLP)_, 2016, pp. 1-5. **(EI) (Best Student Paper Nomination Rewards)**
+[9] **J. Zhang**, K. Honda, J. Wei*, J. Wang and J. Dang, ”Spatial co-variation of lip and tongue at strong and weak syllables,” in _Proceedings of the International Symposium on Chinese Spoken Language Processing (ISCSLP)_, 2016, pp. 1-5. **(EI)**
 
-[10] J. Li, K. Honda, **J. Zhang**, and J. Wei*, ”Individual difference and acoustic effect of female laryngeal cavities,” in _Proceedings of the International Symposium on Chinese Spoken Language Processing (ISCSLP)_, 2016, pp. 1-5. **(EI)**
+[10] C. Zhang, K. Honda, **J. Zhang**, and J. Wei*, ”Contributions of the piriform fossa of female speakers to vowel spectra,” in _Proceedings of the International Symposium on Chinese Spoken Language Processing (ISCSLP)_, 2016, pp. 1-5. **(EI) (Best Student Paper Nomination Rewards)**
 
-[11] Y. Chen*, **J. Zhang**, H. Wang, J. Zhang, Y. Chen, H. Lin, and J. Dang, ”The MFCC vowel space of [γ] in grammatical and lexical word in standard Chinese,” in _Proceedings of the Workshop on Chinese Lexical Semantics (CLSW)_, 2016, pp. 1-6. **(EI)**
+[11] J. Li, K. Honda, **J. Zhang**, and J. Wei*, ”Individual difference and acoustic effect of female laryngeal cavities,” in _Proceedings of the International Symposium on Chinese Spoken Language Processing (ISCSLP)_, 2016, pp. 1-5. **(EI)**
 
-[12] J. Wang, Y. Yang, J. Wei*, and **J. Zhang**, ”Continuous ultrasound based tongue movement video synthesis from speech,” in _Proceedings of the International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2016, pp. 1716-1720. **(Top conference in the field of speech signal processing, EI, ISTP, CCF-B)**
+[12] Y. Chen*, **J. Zhang**, H. Wang, J. Zhang, Y. Chen, H. Lin, and J. Dang, ”The MFCC vowel space of [γ] in grammatical and lexical word in standard Chinese,” in _Proceedings of the Workshop on Chinese Lexical Semantics (CLSW)_, 2016, pp. 1-6. **(EI)**
 
-[13] **J. Wang, J. Zhang**, J. Wei*, W. Lu, and J. Dang, ”Automatic speech recognition under robot ego noises,” in _Proceedings of the International Symposium on Chinese Spoken Language Processing (ISCSLP)_, 2014, pp. 377-377. **(EI, ISTP)**
+[13] J. Wang, Y. Yang, J. Wei*, and **J. Zhang**, ”Continuous ultrasound based tongue movement video synthesis from speech,” in _Proceedings of the International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2016, pp. 1716-1720. **(Top conference in the field of speech signal processing, EI, ISTP, CCF-B)**
 
-[14] **J. Wang, J. Zhang**, S. Hyon, and J. Wei*, ”Sound source localization based on microphone uniform linear array,” in _Proceedings of the International Conference on Material and Manufacturing Technology (ICMMT)_, 2013, pp. 634-639. **(EI)**
+[14] **J. Wang, J. Zhang**, J. Wei*, W. Lu, and J. Dang, ”Automatic speech recognition under robot ego noises,” in _Proceedings of the International Symposium on Chinese Spoken Language Processing (ISCSLP)_, 2014, pp. 377-377. **(EI, ISTP)**
+
+[15] **J. Wang, J. Zhang**, S. Hyon, and J. Wei*, ”Sound source localization based on microphone uniform linear array,” in _Proceedings of the International Conference on Material and Manufacturing Technology (ICMMT)_, 2013, pp. 634-639. **(EI)**
 
 ## AWARDS & SCHOLARSHIPS
 
